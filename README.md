@@ -70,17 +70,6 @@ This project was developed as part of my SQL learning journey to strengthen my s
 ## 📷 Project Presentation
 The complete project presentation is available in this repository.
 
-**File:** `SQL_Project_Presentation.pdf`
-
----
-
-## 🚀 Future Enhancements
-- Add Triggers
-- Add Functions
-- Create Stored Procedures for automation
-- Build a Power BI dashboard using the SQL database
-- Develop a web interface for employee management
-
 ---
 
 ## ⭐ If you found this project useful, don't forget to Star this repository!
